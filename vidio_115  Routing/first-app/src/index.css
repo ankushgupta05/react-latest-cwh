@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.cards{
+  display: flex;
+}
+
+.red{
+  background-color: red;
+  font-weight: 700;
+}
